@@ -1,5 +1,5 @@
 export function Home() {
   return (
-    <div>home</div>
+    <div>Home</div>
   )
 }
