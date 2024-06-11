@@ -90,7 +90,7 @@ export const ButtonContainer = styled.div`
 `
 
 export const ResultContainer = styled.p`
-    padding: 0%.4rem 1.8rem;
+    padding: 0.4rem 1.8rem;
     background: ${props => props.theme.feedbackButtonColor};
     width: fit-content;
     margin-inline: auto;
